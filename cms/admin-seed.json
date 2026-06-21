@@ -1,0 +1,78 @@
+{
+  "teamProfiles": [
+    {
+      "fullName": "Veerayya Maredy",
+      "designation": "Designated Partner",
+      "din": "02989876",
+      "publicBiography": "Veerayya Maredy is a Designated Partner of the firm.",
+      "publicDisplay": {
+        "showDin": false,
+        "showAdvocateDescription": false
+      },
+      "editableFields": [
+        "professionalPhotograph",
+        "shortBiography",
+        "academicQualifications",
+        "professionalQualifications",
+        "barCouncilEnrolmentNumber",
+        "stateBarCouncil",
+        "dateOfEnrolment",
+        "practiceAreas",
+        "languages",
+        "professionalMemberships",
+        "linkedInOrProfileLink",
+        "approvedContactInformation"
+      ]
+    },
+    {
+      "fullName": "Satyasadhan Chalamala",
+      "designation": "Designated Partner | Advocate",
+      "din": "10807260",
+      "barCouncilEnrolmentNumber": "TS/2391/2018",
+      "publicBiography": "Satyasadhan Chalamala is an Advocate and Designated Partner with the firm. He is enrolled under Registration No. TS/2391/2018 and serves as Legal Expert on the Institutional Human Ethical Committee of Mamata Academy of Medical Sciences.",
+      "publicDisplay": {
+        "showDin": false,
+        "showBarCouncilEnrolmentNumber": true
+      },
+      "editableFields": [
+        "professionalPhotograph",
+        "shortBiography",
+        "academicQualifications",
+        "professionalQualifications",
+        "barCouncilEnrolmentNumber",
+        "stateBarCouncil",
+        "dateOfEnrolment",
+        "practiceAreas",
+        "languages",
+        "professionalMemberships",
+        "linkedInOrProfileLink",
+        "approvedContactInformation"
+      ]
+    },
+    {
+      "fullName": "Surya Narayana Garapati",
+      "designation": "Designated Partner | Advocate",
+      "currentMcaDesignationConfirmation": true,
+      "barCouncilEnrolmentNumber": null,
+      "publicBiography": "Surya Narayana Garapati is an Advocate associated with corporate, commercial, infrastructure and project-related legal matters. His practice focus includes arbitration and dispute resolution, insolvency and bankruptcy matters, debt recovery and related proceedings. He holds an LL.M. from Kakatiya University, Warangal. He completed his LL.M. with Distinction and was recognised as a University Topper, receiving three Gold Medals for academic excellence.",
+      "publicDisplay": {
+        "showDesignatedPartner": true,
+        "showBarCouncilEnrolmentNumber": false,
+        "showOlderTechnicalDegrees": false
+      },
+      "editableFields": [
+        "professionalPhotograph",
+        "approvedProfessionalBiography",
+        "barCouncilEnrolmentNumber",
+        "stateBarCouncil",
+        "dateOfEnrolment",
+        "practiceAreas",
+        "languages",
+        "professionalMemberships",
+        "linkedInOrProfileLink",
+        "approvedContactInformation",
+        "mcaDesignationConfirmation"
+      ]
+    }
+  ]
+}
